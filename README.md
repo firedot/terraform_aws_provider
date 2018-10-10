@@ -46,3 +46,7 @@ terraform init
 terraform apply
 ```
 
+5.When prompted, enter your AWS AMI ID
+
+6.When prompted, enter your SSH keypair name. 
+
